@@ -20,12 +20,16 @@ Push Notifications: JPDB can send notifications to clients when data changes, en
 Scalability: JPDB can be deployed in a serverless environment, allowing it to scale automatically based on demand.
 Cost-Effective: This can reduce infrastructure costs and improve efficiency.
 
-7. AJAX Support:
-Dynamic Web Application![JSON SS](https://github.com/user-attachments/assets/1b28d1b6-9481-4822-aba4-6523a8c294dc)
-s: JPDB is well-suited for building dynamic web applications that can update data in real-time.
+6. Web ApplicatiSupport:ons: JPDB is well-suited for building dynamic web applications that can update data in real-time.
 Asynchronous Communication: AJAX enables asynchronous communication between the client and server, providing a more responsive user experience.
 
-![OutputScreen](https://github.com/user-attachments/assets/91ea3c76-942f-4a16-80b6-1524b2d09301)![JSON SS](https://github.com/user-attachments/assets/6c7d2391-f2e1-45fa-b9d1-d5cd918e48e0)
+7. AJAX Dynamic 
+
+The OutPut Screen 
+![OutputScreen](https://github.com/user-attachments/assets/91ea3c76-942f-4a16-80b6-1524b2d09301)
+
+The Data Added in JSON Db
+![JSON SS](https://github.com/user-attachments/assets/6c7d2391-f2e1-45fa-b9d1-d5cd918e48e0)
 
 
 `
